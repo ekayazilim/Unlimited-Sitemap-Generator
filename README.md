@@ -18,7 +18,10 @@ Aşağıdaki Python paketlerini yüklemeniz gerekmektedir:
 
 ```bash
 pip install requests
+pip install pyfiglet
 pip install beautifulsoup4
+pip install tkinter
+
 
 ```
 
